@@ -1,0 +1,1 @@
+Projeto realizado com aplicação da linguagem JS, React e Bootstrap, com o objetivo de fazer a gestão de uma escola pública, tendo como funções cadastro de aluno, professores, e funcionários, com a utilização de banco de dados MySql.
